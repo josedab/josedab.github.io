@@ -1,23 +1,23 @@
 module.exports = {
   siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
   shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteDescription: "José David Baena personal website.",
+  siteUrl: "https://josedab.github.io",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "José David Baena",
+  authorTwitterAccount: "josedab",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "José David Baena",
+  headerSubTitle: "Work, thoughts and general nonsense",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "José David Baena personal website",
+  manifestShortName: "Jose Baena", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/josedab" },
+    { name: "twitter", url: "https://twitter.com/josedab" },
+    { name: "facebook", url: "https://www.facebook.com/josedab" }
   ]
 };
