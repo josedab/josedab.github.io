@@ -3,6 +3,7 @@ title: "About"
 date: 2020-05-24T09:06:21-07:00
 draft: true
 ---
+
 Hi there :wave:
 
 My name is **José David Baena** and you reached my personal site.
@@ -11,13 +12,18 @@ Here, you can find a bit more information about me, my interests and what I valu
 ## A little about myself
 Originally from Spain, currently living in **San Francisco** :bridge_at_night:, married to an Italian and have an amazing baby (born in the USA). It is a bit of the united nations around here :earth_americas:.
 
+I like to be in a room where I feel the dumbest (meaning lot of room for learning) and always open to new opportunities to grow :muscle:. 
+
 
 ## Professional experience
 I have been working as a Software Engineer for research projects, startups and big companies. Worked mostly as a Full Stack engineer, although based on my experience, I prefer to be focused on the backend. In particular, I love architecture problems and wondering how to scale the next big thing from 0 to millions of requests.
 
 At the moment, you can find me working at **GitHub**, where I enjoy working with some of the smartest people I know.
 
+{{< admonition type=info title="LinkedIn" open=true >}}
 To see my full professional experience, this is my [LinkedIn profile](https://www.linkedin.com/in/josedavidbaena/).
+{{< /admonition >}}
+
 
 ## Personal interests
 At work and when I have free time, I try to focus my time on my family and:
@@ -37,7 +43,7 @@ I like to code POC for these, and have a look to current implementations, being 
 
 
 ## Projects
-:warning: This is still an area of development, so please come back in the future! :warning:
+:warning: This area is still in development, so please come back in the future! :warning:
 
 Here are some projects I have worked outside work on my free time:
 - **Netflix Conductor**: (Significant contributions) a workflow management system part of the Netflix OSS ecosystem.
@@ -45,13 +51,13 @@ Here are some projects I have worked outside work on my free time:
 - **Utiltube**: Metadata Service associated to videos. Think about data enhancement for video experiences.
 - **API Daas**: Api data as a Service platform. Declarative apis for RAD development.
 
-{{< admonition type=info title="And many more" open=true >}}
+{{< admonition type=info title="GitHub" open=true >}}
 And many more experiments for Java, Go, Javascript and Ruby. Checkout my [GitHub repository](https://github.com/josedab) for more details.
 {{< /admonition >}}
 
 ## Contact
-I am always interested in knowing other people in the sector or with potential interest in tech. I am trying as well to build a diverse network where I can help/be helped. If there is anything you need help with, feel free to drop me an email at `josedab at gmail.com`.
+I am always interested in knowing other people in the sector or with potential interest in tech. I am trying as well to build a diverse network where I can help/be helped. If there is anything you need help with, feel free to drop me an email at `josedab at gmail dot com`.
 
 {{< admonition type=note title="Replying to messages" open=true >}}
-Sometimes, like everyone else, I get busy at **life** and I might take some time to reply. However, I will do my best to reply every message.
+Sometimes, like everyone else, I get busy at **life** and I might take some time to reply. However, I will do my best to reply every message in a timely manner.
 {{< /admonition >}}
