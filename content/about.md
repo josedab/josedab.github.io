@@ -39,7 +39,7 @@ I like to code POC for these, and have a look to current implementations, being 
 
 ### Outside tech
 - :men_wrestling: **Brazillian Jiu Jitsu**: When I am not coding, I am mostly thinking in BJJ. This has been my main passion outside work and have been doing it now for a while. When I travel for work, I also make sure I have some time to visit a local academy and mingle with the locals :)
-- :hamburger: **Food**: More than cooking, eating it. Love to eat food from different cultures, being my favourite the Szechuan cuisine. Having said that, if you live aroudn San Francisco, you should check out [Mission Chinese Food](https://www.missionchinesefood.com/san-francisco).
+- :hamburger: **Food**: More than cooking it, I prefer to eat it :joy:. Love to eat food from different cultures, being the Szechuan cuisine my favourite. Having said that, if you live around San Francisco, you should check out [Mission Chinese Food](https://www.missionchinesefood.com/san-francisco).
 
 
 ## Projects
