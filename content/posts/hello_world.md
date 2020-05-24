@@ -1,6 +1,7 @@
 ---
 title: "Hello world!"
 date: 2020-05-23T14:35:30-07:00
+tags: ["blog"]
 draft: true
 ---
 Hi there! :wave:
@@ -19,7 +20,7 @@ Students **who spend time teaching** what they’ve learned go on to show **bett
 {{< /admonition >}}
 
 ## Content of this site
-This site will contain mostly information/challenges I face in the Software Engineering field. Most of the content will be technical in some degree, although lot of the times I will talk about the concepts with a link to the GitHub repository.
+This site will contain mostly information/challenges I face in the Software Engineering field. Most of the content will be technical in some degree, although if lot of code is involved, I am likely pointing the work to the specific GitHub repository.
 
 ## Content frequency
-My aim is to write at least once a month. I put a low entry requirement, and if I like this writing adventure I will increase it. For the moment, I want to focus this as a writing/learning experience and not an obligation.
+My aim is to write at least once a month: I put a low entry requirement to encourage myself to have this alive and have it up to date :sweat_smile:. If I like this writing adventure I will definitely reevaluate it. For the moment, I want to focus this as a writing/learning experience and not an obligation.
