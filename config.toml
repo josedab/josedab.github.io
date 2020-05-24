@@ -53,7 +53,7 @@ theme = "LoveIt"
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "<josedab />"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -108,7 +108,7 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "images/avatar.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "José David Baena"
       # subtitle shown in home page
       subtitle = "Make the web fun again"
       # whether to use typeit animation for subtitle
@@ -126,14 +126,35 @@ theme = "LoveIt"
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
 
+  [params.search]
+    enable = true
+    # type of search engine ("lunr", "algolia")
+    type = "algolia"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # LoveIt NEW | 0.2.1 max number of results length
+    maxResultLength = 10
+    # LoveIt NEW | 0.2.3 snippet length of the result
+    snippetLength = 30
+    # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
+
   # Social config about the author
   [params.social]
     GitHub = "josedab"
     Linkedin = "josedavidbaena"
     Twitter = "josedab"
-    Instagram = "xxxx"
+    Instagram = ""
     Facebook = "josedab"
-    Telegram = "xxxx"
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -155,7 +176,7 @@ theme = "LoveIt"
     Xing = ""
     Snapchat = ""
     Soundcloud = ""
-    Spotify = ""
+    Spotify = "1138749415"
     Bandcamp = ""
     Paypal = ""
     Fivehundredpx = ""
