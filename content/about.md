@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-05-24T09:06:21-07:00
-draft: true
+draft: false
 ---
 
 Hi there :wave:

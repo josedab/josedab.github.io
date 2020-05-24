@@ -2,7 +2,7 @@
 title: "Hello world!"
 date: 2020-05-23T14:35:30-07:00
 tags: ["blog"]
-draft: true
+draft: false
 ---
 Hi there! :wave:
 
