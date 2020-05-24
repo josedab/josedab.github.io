@@ -7,6 +7,7 @@ title = "My personal website"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
+enableEmoji = true
 
 [params]
   # LoveIt theme version
@@ -239,7 +240,7 @@ theme = "LoveIt"
       # whether to enable the table of the contents
       enable = true
       # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       auto = true
     # LoveIt CHANGED | 0.2.0 KaTeX mathematical formulas
