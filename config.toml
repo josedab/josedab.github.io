@@ -1,4 +1,4 @@
-baseURL = "http://josedab.com/"
+baseURL = "https://www.josedavidbaena.com/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
