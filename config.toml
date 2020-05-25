@@ -3,7 +3,7 @@ baseURL = "https://www.josedavidbaena.com/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My personal website"
+title = "Jose David Baena | Software Engineer"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -13,9 +13,9 @@ enableEmoji = true
   # LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "Jose David Baena's personal website"
+  description = "Jose David Baena | Software Engineer"
   # site keywords
-  keywords = ["Jose David Baena", "Personal website", "josedab"]
+  keywords = ["Jose David Baena", "Personal website", "Software Engineer", "josedab"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
