@@ -554,7 +554,7 @@ enableEmoji = true
 # Permalinks config
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = "/:year/:month/:title/"
+  posts = "/posts/:year/:month/:title/"
 
 # Privacy config
 [privacy]
