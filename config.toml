@@ -3,7 +3,7 @@ baseURL = "https://www.josedavidbaena.com/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My personal website"
+title = "Jose David Baena | Software Engineer"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -13,9 +13,9 @@ enableEmoji = true
   # LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "Jose David Baena's personal website"
+  description = "Jose David Baena | Software Engineer"
   # site keywords
-  keywords = ["Jose David Baena", "Personal website", "josedab"]
+  keywords = ["Jose David Baena", "Personal website", "Software Engineer", "josedab"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
@@ -242,7 +242,7 @@ enableEmoji = true
       # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
-      auto = true
+      auto = false
     # LoveIt CHANGED | 0.2.0 KaTeX mathematical formulas
     [params.page.math]
       enable = true
@@ -554,7 +554,7 @@ enableEmoji = true
 # Permalinks config
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = "/:year/:month/:title/"
+  posts = "/posts/:year/:month/:title/"
 
 # Privacy config
 [privacy]
