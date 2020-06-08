@@ -2,8 +2,8 @@
 title: "Using Lighthouse on this Website"
 date: 2020-06-06T14:28:48-07:00
 draft: false
-
 lightgallery: true
+tags: ["blog", "web-performance"]
 ---
 
 ## The beginning
